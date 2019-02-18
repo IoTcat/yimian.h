@@ -11,5 +11,5 @@ int main()
 	hh.hi();
 
 	
-	return 1;
+	return 0;
 }
