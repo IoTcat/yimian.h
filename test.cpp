@@ -1,4 +1,5 @@
 #include<iostream>
+#include<stdio.h>
 #include"yimian.h"
 using namespace std;
 
@@ -7,8 +8,8 @@ int main()
 {
 	yimian hh;
 
-	hh.hellow();
+	hh.hi();
 
-
-	return 0;
+	
+	return 1;
 }
