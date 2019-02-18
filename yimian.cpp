@@ -1,7 +1,6 @@
-#include<iostream>
 #include"yimian.h"
 
-using namespace std;
+string yimian::version = "Version 0.0.1";
 
 void yimian::hi()
 {

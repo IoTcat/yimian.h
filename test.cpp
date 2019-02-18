@@ -6,10 +6,10 @@ using namespace std;
 
 int main()
 {
-	yimian hh;
+	yimian tomatotrees;
 
-	hh.hi();
-
+	tomatotrees.hi();
+	cout << tomatotrees.version<< endl;
 	
 	return 0;
 }
